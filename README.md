@@ -33,7 +33,6 @@ criei 3 imagens com o prompt de "homem tocando piano em formato fotografia"
 
 ## 🚀 Resultados
 primeira imagem
-<img src="[URL_da_Imagem](https://github.com/user-attachments/assets/9b1b5d24-2f0d-4c87-a1df-6bea041d3d66)" alt="imagem1">
 ![image](https://github.com/user-attachments/assets/9b1b5d24-2f0d-4c87-a1df-6bea041d3d66)
 
 segunda imagem
