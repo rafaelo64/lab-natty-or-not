@@ -23,16 +23,26 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+um topico sobre a "naturalidade" das imagens geradas por ias generativas
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+nightcafe.studio
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+criei 3 imagens com o prompt de "homem tocando piano em formato fotografia"
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+primeira imagem
+<img src="[URL_da_Imagem](https://github.com/user-attachments/assets/9b1b5d24-2f0d-4c87-a1df-6bea041d3d66)" alt="imagem1">
+![image](https://github.com/user-attachments/assets/9b1b5d24-2f0d-4c87-a1df-6bea041d3d66)
+
+segunda imagem
+![image](https://github.com/user-attachments/assets/79d12624-ad1b-44d9-89c0-98d6818cbd93)
+
+terceira imagem
+![image](https://github.com/user-attachments/assets/d2094350-9998-4286-aeaa-7206f315514e)
+
+
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
